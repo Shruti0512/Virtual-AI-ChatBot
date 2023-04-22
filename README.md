@@ -8,3 +8,4 @@ Features-:
 4. It is not build on any pre-built libraries like chatter-bot etc.
 5. It can also make your mood light by telling you jokes.
 6. It is not trained on any particular topic instead it can answer any question on any general topic.
+7. It send email using smtp protocol and yagmail.
